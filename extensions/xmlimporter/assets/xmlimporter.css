@@ -1,0 +1,157 @@
+
+/* Preview */
+
+#xml-importer-preview {
+	overflow-x: hidden;
+	width: calc(100vw - 31.3rem);
+	min-height: 15rem;
+	max-height: 50vh;
+}
+
+/* Importing */
+
+#contents > form {
+	-webkit-transition: opacity 0.25s ease-in;
+	transition: opacity 0.25s ease-in;
+}
+
+.xml-importer-running form {
+	opacity: 0;
+}
+
+.xml-importer-running::before {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 10rem;
+	left: calc(50% - 2.5rem);
+	width: 5rem;
+	height: 5rem;
+	border: 0.2rem solid #668abe;
+	border-left-color: rgba(102, 138, 190, 0.2);
+	border-radius: 50%;
+	-webkit-animation: spin 1.5s infinite linear;
+	animation: spin 1.5s infinite linear;
+}
+
+@-webkit-keyframes spin {
+	0% {
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	100% {
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+}
+
+@keyframes spin {
+	0% {
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	100% {
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+}
+
+/* Reporting */
+
+body {
+	scroll-behavior: smooth;
+}
+
+@media screen and (min-width: 700px) {
+	td:first-child {
+		width: 25.5rem;
+	}
+}
+
+table .button {
+	margin: -0.3rem 0;
+}
+
+.xml-importer-reports {
+	position: relative;
+}
+
+.xml-importer-run {
+	position: absolute !important;
+	top: 0;
+	overflow: hidden;
+	box-sizing: border-box;
+	width: calc(100% - 3.6rem);
+	height: 50vh;
+	margin-top: 5rem !important;
+	border-top: 0.1rem solid rgba(0, 0, 0, 0.1) !important;
+	-webkit-transition: opacity 0.25s ease-in;
+	transition: opacity 0.25s ease-in;
+	opacity: 0;
+	z-index: 0;
+}
+
+.xml-importer-run:target {
+	height: auto;
+	-webkit-transition: none;
+	transition: none;
+	opacity: 1;
+	z-index: 100;
+}
+
+.xml-importer-run p {
+	padding: 0 0 0.8rem 0;
+	border-bottom: 0.1rem solid rgba(0, 0, 0, 0.1);
+}
+
+.xml-importer-run p:last-child {
+	border-bottom: none;
+}
+
+.xml-importer-report-hide {
+	float: right;
+	color: #b4b4b4;
+	border: none;
+}
+
+.xml-importer-run h2 {
+	margin: 3rem 0 0.8rem;
+	padding: 0 !important;
+}
+
+.xml-importer-run ol {
+	margin-left: 0;
+	list-style: none;
+}
+
+.xml-importer-run ul {
+	position: relative;
+	margin: 0.8rem 0 1.5rem;
+	padding-left: 1.2rem;
+}
+
+.xml-importer-run ul li::before {
+	content: '–';
+	display: block;
+	position: absolute;
+	left: 0;
+}
+
+.xml-importer-run .frame {
+	margin-bottom: 0;
+}
+
+.xml-importer .frame .content {
+	overflow: auto;
+}
+
+.xml-importer-run pre {
+	max-width: calc(100vw - 33.3rem);
+	margin: 0;
+	background-color: transparent;
+}
+
+.xml-importer-run pre code {
+	padding: 0;
+	border: none;
+}

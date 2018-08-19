@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="multilingual_field" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+	<name>Field: Multilingual Text Box</name>
+	<description>The multilingual version of Textbox field.</description>
+	<repo type="github">https://github.com/vlad-ghita/multilingual_field</repo>
+	<url type="discuss">https://www.getsymphony.com/discuss/thread/46067/</url>
+	<types>
+		<type>Field</type>
+		<type>Field Types</type>
+		<type>Text Box</type>
+		<type>Textbox</type>
+		<type>Text</type>
+		<type>Multilingual</type>
+	</types>
+	<authors>
+		<author>
+			<name github="DeuxHuitHuit" symphony="nitriques" twitter="DeuxHuitHuit">Deux Huit Huit</name>
+			<website>https://deuxhuithuit.com</website>
+		</author>
+		<author>
+			<name github="vlad-ghita" symphony="vladG">Vlad Ghita</name>
+			<email>vlad_micutul@yahoo.com</email>
+			<website>http://www.xanderadvertising.com</website>
+		</author>
+	</authors>
+	<dependencies>
+		<dependency version="2.5">frontend_localisation</dependency>
+		<dependency version="2.7.0">textboxfield</dependency>
+	</dependencies>
+	<releases>
+		<release version="3.5.17" date="2018-02-09" min="2.6.0" max="2.x.x">
+			* Drop index before changing column
+			* Check the right table for the `text_handle` column
+		</release>
+		<release version="3.5.16" date="2018-02-09" min="2.6.0" max="2.x.x">
+			* Hotfix: Add missing ) from 3.5.15
+		</release>
+		<release version="3.5.15" date="2018-01-31" min="2.6.0" max="2.x.x">
+			* Make sure localized handles are updated too
+		</release>
+		<release version="3.5.14" date="2017-10-24" min="2.6.0" max="2.x.x">
+			* Fixes for PHP 7 support
+			* Fix casing in SQL and PHP keywords
+			* Fix errors in error handling
+		</release>
+		<release version="3.5.13" date="2017-09-12" min="2.6.0" max="2.x.x">
+			* To make sure we can alter the handle column without error, drop its key first
+		</release>
+		<release version="3.5.12" date="2017-08-15" min="2.6.0" max="2.x.x">
+			* Make sure we check if unique handle option is enabled or not
+			* Allow handle to be 1023 chars long, instead of 255
+		</release>
+		<release version="3.5.11" date="2017-06-05" min="2.6.0" max="2.x.x">
+			* Make sure consolidate value does not end up in config.php
+		</release>
+		<release version="3.5.10" date="2017-06-01" min="2.6.0" max="2.x.x">
+			* Add missing `handle_unique` column on install
+		</release>
+		<release version="3.5.9" date="2017-03-24" min="2.6.0" max="2.x.x">
+			* Add some unique keys
+		</release>
+		<release version="3.5.8" date="2017-03-24" min="2.6.0" max="2.x.x">
+			* Add PHP 7 support
+			* Code formatting to PSR-2
+		</release>
+		<release version="3.5.7" date="2016-12-14" min="2.6.0" max="2.x.x">
+			* Fixed a bug where assets were not loaded
+		</release>
+		<release version="3.5.6" date="2016-10-20" min="2.6.0" max="2.x.x">
+			* Fixed a bug where handles could be bigger than 255 chars
+		</release>
+		<release version="3.5.5" date="2016-03-14" min="2.4.x" max="2.x.x">
+			* Added a title to hint about default value
+		</release>
+		<release version="3.5.4" date="2016-03-07" min="2.4.x" max="2.x.x">
+			* Updated compatibility info
+		</release>
+		<release version="3.5.3" date="2015-12-17" min="2.4.x" max="2.6.x">
+			* Make sure the where clause does not get lost if we do not have a valid language
+			* Remove obsolete css import
+		</release>
+		<release version="3.5.2" date="2015-10-09" min="2.4.x" max="2.6.x">
+			* Validate that there are languages before converting
+			* Make sure the user gets notified in case of error
+		</release>
+		<release version="3.5.1" date="2015-06-03" min="2.4.x" max="2.6.x">
+			* Removed confusing required checkbox
+		</release>
+		<release version="3.5.0" date="2015-05-13" min="2.4.x" max="2.6.x">
+			* Added more support for showing the right language in the backend
+			* Added support for the multilingual_selectbox_link_field extension
+		</release>
+		<release version="3.4.2" date="2015-04-22" min="2.4.x" max="2.6.x">
+			* Fixed a bug in the field settings with required languages
+		</release>
+		<release version="3.4.1" date="2015-04-08" min="2.4.x" max="2.6.x">
+			* Made the `entry_id` column unique
+			* Fixed issue with display in entries table checkbox
+			* Fixed SQL query when no lang is available
+		</release>
+		<release version="3.4.0" date="2015-02-10" min="2.4.x" max="2.6.x">
+			* Added "Convert textbox to multingual" feature (Symphony 2.6.x compatible only)
+		</release>
+		<release version="3.3.3" date="2015-02-10" min="2.4.x" max="2.6.x">
+			* Improved optional support
+			* Improved publish display of optional values
+			* Marked as 2.6 compatible
+		</release>
+		<release version="3.3.2" date="2014-09-08" min="2.4.x" max="2.5.x">
+			* Fixed a regression bug where the "display in entries table" checkbox was missing.
+		</release>
+		<release version="3.3.1" date="2014-08-06" min="2.4" max="2.5">
+			* Marked as 2.5 compatible
+		</release>
+		<release version="3.3" date="2014-05-19" min="2.4">
+			* Added update on per language basis.
+		</release>
+		<release version="3.2" date="2013-11-29" min="2.3.4">
+			* Fixed query.
+		</release>
+		<release version="3.1" date="2013-11-28" min="2.3">
+			* Add language code to output element.
+		</release>
+		<release version="3.0" date="2013-11-26" min="2.3">
+			* Allow textarea to be resized only on vertical axis.
+			* Added language code to error message. Useful to process automatically in frontend forms.
+			* Fixed `Default to main language` feature.
+			* Ability to chose required languages.
+		</release>
+		<release version="2.1" date="2012-06-22" min="2.3">
+			* Added 2 new ouput modes that supply information for all languages.
+		</release>
+		<release version="2.0" date="2012-05-15" min="2.3">
+			* Complete rewrite.
+			* Symphony 2.3 compatibility.
+			* Depends on Frontend Localisation
+			* It now extends Textbox Field, benefitting from all goodies.
+			* No compatible with Language Redirect.
+		</release>
+		<release version="1.4.1" date="2011-11-12" min="2.2">
+			- Add an option to the fields definition to set if field has to show the values of default language when the value of selected language is empty.
+		</release>
+		<release version="1.4" date="2011-05-12" min="2.2">
+			- Requires Language Redirect 1.0.2 or higher
+			- Use the standard Multilingual class from Language Redirect 1.0.2
+			- Add option to enable / disable the generation of unique handles for single line fields.
+			- Bug fix in character counter.
+		</release>
+		<release version="1.3.2" date="2011-05-27" min="2.2">
+			- Added full support for frontend submit (create/update).
+		</release>
+		<release version="1.3" date="2011-02-13" min="2.2">
+			- Symphony 2.2 compatibility
+			- Language Redirect 1.0.1 compatibility
+		</release>
+		<release version="1.2" date="2010-02-17" min="2.0.6">
+			- Add multilingual handles to work with localized URL params
+			- Add compatibility with tinyMCE formatter
+			- Add compatibility with Publish Filtering extension by Nick Dunn(http://github.com/nickdunn/publishfiltering)
+		</release>
+		<release version="1.0" date="2010-06-11" min="2.0.6"/>
+	</releases>
+	<media>
+		<item type="image" url="http://www.getsymphony.com/workspace/downloads/extensions/images/Imagen-17-1276279701.png">Multilingual Text Field preview.</item>
+	</media>
+</extension>

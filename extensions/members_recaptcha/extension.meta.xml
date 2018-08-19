@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="members_recaptcha" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+	<name>Members reCaptcha</name>
+	<description>
+		Validates a reCaptcha challenge on member login
+	</description>
+	<repo type="github">https://github.com/DeuxHuitHuit/?</repo>
+	<url type="discuss">https://www.getsymphony.com/discuss/thread/?/</url>
+	<url type="issues">https://github.com/DeuxHuitHuit/?/issues</url>
+	<types>
+		<type>Members</type>
+		<type>Third Party Integration</type>
+	</types>
+	<dependencies>
+		<dependency version="1.3.0">google_recaptcha</dependency>
+		<dependency version="1.8.0">members</dependency>
+	</dependencies>
+	<authors>
+		<author>
+			<name github="DeuxHuitHuit" symphony="nitriques" twitter="DeuxHuitHuit">Deux Huit Huit</name>
+			<website>https://deuxhuithuit.com/</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0.0" date="2017-09-27" min="2.6.0" max="2.x.x">
+			- First release
+		</release>
+	</releases>
+</extension>

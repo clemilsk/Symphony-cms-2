@@ -1,0 +1,1640 @@
+<languages>
+	<lang code="ab">
+		<name>аҧсуа бызшәа, аҧсшәа</name>
+		<dir>ltr</dir>
+		<iso-639-1>ab</iso-639-1>
+		<iso-639-2t>abk</iso-639-2t>
+		<iso-639-2b>abk</iso-639-2b>
+		<iso-639-3>abk</iso-639-3>
+		<iso-639-6>abks</iso-639-6>
+	</lang>
+	<lang code="aa">
+		<name>Afaraf</name>
+		<dir>ltr</dir>
+		<iso-639-1>aa</iso-639-1>
+		<iso-639-2t>aar</iso-639-2t>
+		<iso-639-2b>aar</iso-639-2b>
+		<iso-639-3>aar</iso-639-3>
+		<iso-639-6>aars</iso-639-6>
+	</lang>
+	<lang code="af">
+		<name>Afrikaans</name>
+		<dir>ltr</dir>
+		<iso-639-1>af</iso-639-1>
+		<iso-639-2t>afr</iso-639-2t>
+		<iso-639-2b>afr</iso-639-2b>
+		<iso-639-3>afr</iso-639-3>
+		<iso-639-6>afrs</iso-639-6>
+	</lang>
+	<lang code="ak">
+		<name>Akan</name>
+		<dir>ltr</dir>
+		<iso-639-1>ak</iso-639-1>
+		<iso-639-2t>aka</iso-639-2t>
+		<iso-639-2b>aka</iso-639-2b>
+		<iso-639-3>aka + 2</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="sq">
+		<name>Gjuha shqipe</name>
+		<dir>ltr</dir>
+		<iso-639-1>sq</iso-639-1>
+		<iso-639-2t>sqi</iso-639-2t>
+		<iso-639-2b>alb</iso-639-2b>
+		<iso-639-3>sqi + 4</iso-639-3>
+		<iso-639-6>–</iso-639-6>
+	</lang>
+	<lang code="am">
+		<name>አማርኛ</name>
+		<dir>ltr</dir>
+		<iso-639-1>am</iso-639-1>
+		<iso-639-2t>amh</iso-639-2t>
+		<iso-639-2b>amh</iso-639-2b>
+		<iso-639-3>amh</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ar">
+		<name>العربية</name>
+		<dir>rtl</dir>
+		<iso-639-1>ar</iso-639-1>
+		<iso-639-2t>ara</iso-639-2t>
+		<iso-639-2b>ara</iso-639-2b>
+		<iso-639-3>ara + 30</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="an">
+		<name>Aragonés</name>
+		<dir>ltr</dir>
+		<iso-639-1>an</iso-639-1>
+		<iso-639-2t>arg</iso-639-2t>
+		<iso-639-2b>arg</iso-639-2b>
+		<iso-639-3>arg</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="hy">
+		<name>Հայերեն</name>
+		<dir>ltr</dir>
+		<iso-639-1>hy</iso-639-1>
+		<iso-639-2t>hye</iso-639-2t>
+		<iso-639-2b>arm</iso-639-2b>
+		<iso-639-3>hye</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="as">
+		<name>অসমীয়া</name>
+		<dir>ltr</dir>
+		<iso-639-1>as</iso-639-1>
+		<iso-639-2t>asm</iso-639-2t>
+		<iso-639-2b>asm</iso-639-2b>
+		<iso-639-3>asm</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="av">
+		<name>авар мацӀ, магӀарул мацӀ</name>
+		<dir>ltr</dir>
+		<iso-639-1>av</iso-639-1>
+		<iso-639-2t>ava</iso-639-2t>
+		<iso-639-2b>ava</iso-639-2b>
+		<iso-639-3>ava</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ae">
+		<name>Avesta</name>
+		<dir>ltr</dir>
+		<iso-639-1>ae</iso-639-1>
+		<iso-639-2t>ave</iso-639-2t>
+		<iso-639-2b>ave</iso-639-2b>
+		<iso-639-3>ave</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ay">
+		<name>Aymar aru</name>
+		<dir>ltr</dir>
+		<iso-639-1>ay</iso-639-1>
+		<iso-639-2t>aym</iso-639-2t>
+		<iso-639-2b>aym</iso-639-2b>
+		<iso-639-3>aym + 2</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="az">
+		<name>Azərbaycan dili</name>
+		<dir>ltr</dir>
+		<iso-639-1>az</iso-639-1>
+		<iso-639-2t>aze</iso-639-2t>
+		<iso-639-2b>aze</iso-639-2b>
+		<iso-639-3>aze + 2</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="bm">
+		<name>Bamanankan</name>
+		<dir>ltr</dir>
+		<iso-639-1>bm</iso-639-1>
+		<iso-639-2t>bam</iso-639-2t>
+		<iso-639-2b>bam</iso-639-2b>
+		<iso-639-3>bam</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ba">
+		<name>башҡорт теле</name>
+		<dir>ltr</dir>
+		<iso-639-1>ba</iso-639-1>
+		<iso-639-2t>bak</iso-639-2t>
+		<iso-639-2b>bak</iso-639-2b>
+		<iso-639-3>bak</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="eu">
+		<name>Euskara, euskera</name>
+		<dir>ltr</dir>
+		<iso-639-1>eu</iso-639-1>
+		<iso-639-2t>eus</iso-639-2t>
+		<iso-639-2b>baq</iso-639-2b>
+		<iso-639-3>eus</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="be">
+		<name>беларуская мова</name>
+		<dir>ltr</dir>
+		<iso-639-1>be</iso-639-1>
+		<iso-639-2t>bel</iso-639-2t>
+		<iso-639-2b>bel</iso-639-2b>
+		<iso-639-3>bel</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="bn">
+		<name>বাংলা</name>
+		<dir>ltr</dir>
+		<iso-639-1>bn</iso-639-1>
+		<iso-639-2t>ben</iso-639-2t>
+		<iso-639-2b>ben</iso-639-2b>
+		<iso-639-3>ben</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="bh">
+		<name>भोजपुरी</name>
+		<dir>ltr</dir>
+		<iso-639-1>bh</iso-639-1>
+		<iso-639-2t>bih</iso-639-2t>
+		<iso-639-2b>bih</iso-639-2b>
+		<iso-639-3>–</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="bi">
+		<name>Bislama</name>
+		<dir>ltr</dir>
+		<iso-639-1>bi</iso-639-1>
+		<iso-639-2t>bis</iso-639-2t>
+		<iso-639-2b>bis</iso-639-2b>
+		<iso-639-3>bis</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="bs">
+		<name>Bosanski jezik</name>
+		<dir>ltr</dir>
+		<iso-639-1>bs</iso-639-1>
+		<iso-639-2t>bos</iso-639-2t>
+		<iso-639-2b>bos</iso-639-2b>
+		<iso-639-3>bos</iso-639-3>
+		<iso-639-6>boss</iso-639-6>
+	</lang>
+	<lang code="br">
+		<name>Brezhoneg</name>
+		<dir>ltr</dir>
+		<iso-639-1>br</iso-639-1>
+		<iso-639-2t>bre</iso-639-2t>
+		<iso-639-2b>bre</iso-639-2b>
+		<iso-639-3>bre</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="bg">
+		<name>български език</name>
+		<dir>ltr</dir>
+		<iso-639-1>bg</iso-639-1>
+		<iso-639-2t>bul</iso-639-2t>
+		<iso-639-2b>bul</iso-639-2b>
+		<iso-639-3>bul</iso-639-3>
+		<iso-639-6>buls</iso-639-6>
+	</lang>
+	<lang code="my">
+		<name>ဗမာစာ</name>
+		<dir>ltr</dir>
+		<iso-639-1>my</iso-639-1>
+		<iso-639-2t>mya</iso-639-2t>
+		<iso-639-2b>bur</iso-639-2b>
+		<iso-639-3>mya</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ca">
+		<name>Català, valencià</name>
+		<dir>ltr</dir>
+		<iso-639-1>ca</iso-639-1>
+		<iso-639-2t>cat</iso-639-2t>
+		<iso-639-2b>cat</iso-639-2b>
+		<iso-639-3>cat</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ch">
+		<name>Chamoru</name>
+		<dir>ltr</dir>
+		<iso-639-1>ch</iso-639-1>
+		<iso-639-2t>cha</iso-639-2t>
+		<iso-639-2b>cha</iso-639-2b>
+		<iso-639-3>cha</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ce">
+		<name>нохчийн мотт</name>
+		<dir>ltr</dir>
+		<iso-639-1>ce</iso-639-1>
+		<iso-639-2t>che</iso-639-2t>
+		<iso-639-2b>che</iso-639-2b>
+		<iso-639-3>che</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ny">
+		<name>ChiCheŵa, chinyanja</name>
+		<dir>ltr</dir>
+		<iso-639-1>ny</iso-639-1>
+		<iso-639-2t>nya</iso-639-2t>
+		<iso-639-2b>nya</iso-639-2b>
+		<iso-639-3>nya</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="zh">
+		<name>中文 (Zhōngwén), 汉语, 漢語</name>
+		<dir>ltr</dir>
+		<iso-639-1>zh</iso-639-1>
+		<iso-639-2t>zho</iso-639-2t>
+		<iso-639-2b>chi</iso-639-2b>
+		<iso-639-3>zho + 13</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="cv">
+		<name>чӑваш чӗлхи</name>
+		<dir>ltr</dir>
+		<iso-639-1>cv</iso-639-1>
+		<iso-639-2t>chv</iso-639-2t>
+		<iso-639-2b>chv</iso-639-2b>
+		<iso-639-3>chv</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="kw">
+		<name>Kernewek</name>
+		<dir>ltr</dir>
+		<iso-639-1>kw</iso-639-1>
+		<iso-639-2t>cor</iso-639-2t>
+		<iso-639-2b>cor</iso-639-2b>
+		<iso-639-3>cor</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="co">
+		<name>Corsu, lingua corsa</name>
+		<dir>ltr</dir>
+		<iso-639-1>co</iso-639-1>
+		<iso-639-2t>cos</iso-639-2t>
+		<iso-639-2b>cos</iso-639-2b>
+		<iso-639-3>cos</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="cr">
+		<name>ᓀᐦᐃᔭᐍᐏᐣ</name>
+		<dir>ltr</dir>
+		<iso-639-1>cr</iso-639-1>
+		<iso-639-2t>cre</iso-639-2t>
+		<iso-639-2b>cre</iso-639-2b>
+		<iso-639-3>cre + 6</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="hr">
+		<name>hrvatski jezik</name>
+		<dir>ltr</dir>
+		<iso-639-1>hr</iso-639-1>
+		<iso-639-2t>hrv</iso-639-2t>
+		<iso-639-2b>hrv</iso-639-2b>
+		<iso-639-3>hrv</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="cs">
+		<name>čeština, český jazyk</name>
+		<dir>ltr</dir>
+		<iso-639-1>cs</iso-639-1>
+		<iso-639-2t>ces</iso-639-2t>
+		<iso-639-2b>cze</iso-639-2b>
+		<iso-639-3>ces</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="da">
+		<name>Dansk</name>
+		<dir>ltr</dir>
+		<iso-639-1>da</iso-639-1>
+		<iso-639-2t>dan</iso-639-2t>
+		<iso-639-2b>dan</iso-639-2b>
+		<iso-639-3>dan</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="dv">
+		<name>ދިވެހި</name>
+		<dir>rtl</dir>
+		<iso-639-1>dv</iso-639-1>
+		<iso-639-2t>div</iso-639-2t>
+		<iso-639-2b>div</iso-639-2b>
+		<iso-639-3>div</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="nl">
+		<name>Nederlands, Vlaams</name>
+		<dir>ltr</dir>
+		<iso-639-1>nl</iso-639-1>
+		<iso-639-2t>nld</iso-639-2t>
+		<iso-639-2b>dut</iso-639-2b>
+		<iso-639-3>nld</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="dz">
+		<name>རྫོང་ཁ</name>
+		<dir>ltr</dir>
+		<iso-639-1>dz</iso-639-1>
+		<iso-639-2t>dzo</iso-639-2t>
+		<iso-639-2b>dzo</iso-639-2b>
+		<iso-639-3>dzo</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="en">
+		<name>English</name>
+		<dir>ltr</dir>
+		<iso-639-1>en</iso-639-1>
+		<iso-639-2t>eng</iso-639-2t>
+		<iso-639-2b>eng</iso-639-2b>
+		<iso-639-3>eng</iso-639-3>
+		<iso-639-6>engs</iso-639-6>
+	</lang>
+	<lang code="eo">
+		<name>Esperanto</name>
+		<dir>ltr</dir>
+		<iso-639-1>eo</iso-639-1>
+		<iso-639-2t>epo</iso-639-2t>
+		<iso-639-2b>epo</iso-639-2b>
+		<iso-639-3>epo</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="et">
+		<name>Eesti, eesti keel</name>
+		<dir>ltr</dir>
+		<iso-639-1>et</iso-639-1>
+		<iso-639-2t>est</iso-639-2t>
+		<iso-639-2b>est</iso-639-2b>
+		<iso-639-3>est + 2</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ee">
+		<name>Eʋegbe</name>
+		<dir>ltr</dir>
+		<iso-639-1>ee</iso-639-1>
+		<iso-639-2t>ewe</iso-639-2t>
+		<iso-639-2b>ewe</iso-639-2b>
+		<iso-639-3>ewe</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="fo">
+		<name>Føroyskt</name>
+		<dir>ltr</dir>
+		<iso-639-1>fo</iso-639-1>
+		<iso-639-2t>fao</iso-639-2t>
+		<iso-639-2b>fao</iso-639-2b>
+		<iso-639-3>fao</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="fj">
+		<name>Vosa Vakaviti</name>
+		<dir>ltr</dir>
+		<iso-639-1>fj</iso-639-1>
+		<iso-639-2t>fij</iso-639-2t>
+		<iso-639-2b>fij</iso-639-2b>
+		<iso-639-3>fij</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="fi">
+		<name>Suomi, suomen kieli</name>
+		<dir>ltr</dir>
+		<iso-639-1>fi</iso-639-1>
+		<iso-639-2t>fin</iso-639-2t>
+		<iso-639-2b>fin</iso-639-2b>
+		<iso-639-3>fin</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="fr">
+		<name>Français</name>
+		<dir>ltr</dir>
+		<iso-639-1>fr</iso-639-1>
+		<iso-639-2t>fra</iso-639-2t>
+		<iso-639-2b>fre</iso-639-2b>
+		<iso-639-3>fra</iso-639-3>
+		<iso-639-6>fras</iso-639-6>
+	</lang>
+	<lang code="ff">
+		<name>Fulfulde, Pulaar, Pular</name>
+		<dir>ltr</dir>
+		<iso-639-1>ff</iso-639-1>
+		<iso-639-2t>ful</iso-639-2t>
+		<iso-639-2b>ful</iso-639-2b>
+		<iso-639-3>ful + 9</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="gl">
+		<name>Galego</name>
+		<dir>ltr</dir>
+		<iso-639-1>gl</iso-639-1>
+		<iso-639-2t>glg</iso-639-2t>
+		<iso-639-2b>glg</iso-639-2b>
+		<iso-639-3>glg</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ka">
+		<name>ქართული</name>
+		<dir>ltr</dir>
+		<iso-639-1>ka</iso-639-1>
+		<iso-639-2t>kat</iso-639-2t>
+		<iso-639-2b>geo</iso-639-2b>
+		<iso-639-3>kat</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="de">
+		<name>Deutsch</name>
+		<dir>ltr</dir>
+		<iso-639-1>de</iso-639-1>
+		<iso-639-2t>deu</iso-639-2t>
+		<iso-639-2b>ger</iso-639-2b>
+		<iso-639-3>deu</iso-639-3>
+		<iso-639-6>deus</iso-639-6>
+	</lang>
+	<lang code="el">
+		<name>ελληνικά</name>
+		<dir>ltr</dir>
+		<iso-639-1>el</iso-639-1>
+		<iso-639-2t>ell</iso-639-2t>
+		<iso-639-2b>gre</iso-639-2b>
+		<iso-639-3>ell</iso-639-3>
+		<iso-639-6>ells</iso-639-6>
+	</lang>
+	<lang code="gn">
+		<name>Avañe'ẽ</name>
+		<dir>ltr</dir>
+		<iso-639-1>gn</iso-639-1>
+		<iso-639-2t>grn</iso-639-2t>
+		<iso-639-2b>grn</iso-639-2b>
+		<iso-639-3>grn + 5</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="gu">
+		<name>ગુજરાતી</name>
+		<dir>ltr</dir>
+		<iso-639-1>gu</iso-639-1>
+		<iso-639-2t>guj</iso-639-2t>
+		<iso-639-2b>guj</iso-639-2b>
+		<iso-639-3>guj</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ht">
+		<name>Kreyòl ayisyen</name>
+		<dir>ltr</dir>
+		<iso-639-1>ht</iso-639-1>
+		<iso-639-2t>hat</iso-639-2t>
+		<iso-639-2b>hat</iso-639-2b>
+		<iso-639-3>hat</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ha">
+		<name>Hausa, هَوُسَ</name>
+		<dir>rtl</dir>
+		<iso-639-1>ha</iso-639-1>
+		<iso-639-2t>hau</iso-639-2t>
+		<iso-639-2b>hau</iso-639-2b>
+		<iso-639-3>hau</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="he">
+		<name>עברית</name>
+		<dir>rtl</dir>
+		<iso-639-1>he</iso-639-1>
+		<iso-639-2t>heb</iso-639-2t>
+		<iso-639-2b>heb</iso-639-2b>
+		<iso-639-3>heb</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="hz">
+		<name>Otjiherero</name>
+		<dir>ltr</dir>
+		<iso-639-1>hz</iso-639-1>
+		<iso-639-2t>her</iso-639-2t>
+		<iso-639-2b>her</iso-639-2b>
+		<iso-639-3>her</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="hi">
+		<name>हिन्दी, हिंदी</name>
+		<dir>ltr</dir>
+		<iso-639-1>hi</iso-639-1>
+		<iso-639-2t>hin</iso-639-2t>
+		<iso-639-2b>hin</iso-639-2b>
+		<iso-639-3>hin</iso-639-3>
+		<iso-639-6>hins</iso-639-6>
+	</lang>
+	<lang code="ho">
+		<name>Hiri Motu</name>
+		<dir>ltr</dir>
+		<iso-639-1>ho</iso-639-1>
+		<iso-639-2t>hmo</iso-639-2t>
+		<iso-639-2b>hmo</iso-639-2b>
+		<iso-639-3>hmo</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="hu">
+		<name>Magyar</name>
+		<dir>ltr</dir>
+		<iso-639-1>hu</iso-639-1>
+		<iso-639-2t>hun</iso-639-2t>
+		<iso-639-2b>hun</iso-639-2b>
+		<iso-639-3>hun</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="id">
+		<name>Bahasa Indonesia</name>
+		<dir>ltr</dir>
+		<iso-639-1>id</iso-639-1>
+		<iso-639-2t>ind</iso-639-2t>
+		<iso-639-2b>ind</iso-639-2b>
+		<iso-639-3>ind</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ga">
+		<name>Gaeilge</name>
+		<dir>ltr</dir>
+		<iso-639-1>ga</iso-639-1>
+		<iso-639-2t>gle</iso-639-2t>
+		<iso-639-2b>gle</iso-639-2b>
+		<iso-639-3>gle</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ig">
+		<name>Asụsụ Igbo</name>
+		<dir>ltr</dir>
+		<iso-639-1>ig</iso-639-1>
+		<iso-639-2t>ibo</iso-639-2t>
+		<iso-639-2b>ibo</iso-639-2b>
+		<iso-639-3>ibo</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ik">
+		<name>Iñupiaq, Iñupiatun</name>
+		<dir>ltr</dir>
+		<iso-639-1>ik</iso-639-1>
+		<iso-639-2t>ipk</iso-639-2t>
+		<iso-639-2b>ipk</iso-639-2b>
+		<iso-639-3>ipk + 2</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="io">
+		<name>Ido</name>
+		<dir>ltr</dir>
+		<iso-639-1>io</iso-639-1>
+		<iso-639-2t>ido</iso-639-2t>
+		<iso-639-2b>ido</iso-639-2b>
+		<iso-639-3>ido</iso-639-3>
+		<iso-639-6>idos</iso-639-6>
+	</lang>
+	<lang code="is">
+		<name>Íslenska</name>
+		<dir>ltr</dir>
+		<iso-639-1>is</iso-639-1>
+		<iso-639-2t>isl</iso-639-2t>
+		<iso-639-2b>ice</iso-639-2b>
+		<iso-639-3>isl</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="it">
+		<name>Italiano</name>
+		<dir>ltr</dir>
+		<iso-639-1>it</iso-639-1>
+		<iso-639-2t>ita</iso-639-2t>
+		<iso-639-2b>ita</iso-639-2b>
+		<iso-639-3>ita</iso-639-3>
+		<iso-639-6>itas</iso-639-6>
+	</lang>
+	<lang code="iu">
+		<name>ᐃᓄᒃᑎᑐᑦ</name>
+		<dir>ltr</dir>
+		<iso-639-1>iu</iso-639-1>
+		<iso-639-2t>iku</iso-639-2t>
+		<iso-639-2b>iku</iso-639-2b>
+		<iso-639-3>iku + 2</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ja">
+		<name>日本語 (にほんご)</name>
+		<dir>ltr</dir>
+		<iso-639-1>ja</iso-639-1>
+		<iso-639-2t>jpn</iso-639-2t>
+		<iso-639-2b>jpn</iso-639-2b>
+		<iso-639-3>jpn</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="jv">
+		<name>Basa Jawa</name>
+		<dir>ltr</dir>
+		<iso-639-1>jv</iso-639-1>
+		<iso-639-2t>jav</iso-639-2t>
+		<iso-639-2b>jav</iso-639-2b>
+		<iso-639-3>jav</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="kl">
+		<name>Kalaallisut, kalaallit oqaasii</name>
+		<dir>ltr</dir>
+		<iso-639-1>kl</iso-639-1>
+		<iso-639-2t>kal</iso-639-2t>
+		<iso-639-2b>kal</iso-639-2b>
+		<iso-639-3>kal</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="kn">
+		<name>ಕನ್ನಡ</name>
+		<dir>ltr</dir>
+		<iso-639-1>kn</iso-639-1>
+		<iso-639-2t>kan</iso-639-2t>
+		<iso-639-2b>kan</iso-639-2b>
+		<iso-639-3>kan</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="kr">
+		<name>Kanuri</name>
+		<dir>ltr</dir>
+		<iso-639-1>kr</iso-639-1>
+		<iso-639-2t>kau</iso-639-2t>
+		<iso-639-2b>kau</iso-639-2b>
+		<iso-639-3>kau + 3</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ks">
+		<name>कश्मीरी, كشميري‎</name>
+		<dir>ltr</dir>
+		<iso-639-1>ks</iso-639-1>
+		<iso-639-2t>kas</iso-639-2t>
+		<iso-639-2b>kas</iso-639-2b>
+		<iso-639-3>kas</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="kk">
+		<name>қазақ тілі</name>
+		<dir>ltr</dir>
+		<iso-639-1>kk</iso-639-1>
+		<iso-639-2t>kaz</iso-639-2t>
+		<iso-639-2b>kaz</iso-639-2b>
+		<iso-639-3>kaz</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="km">
+		<name>ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ</name>
+		<dir>ltr</dir>
+		<iso-639-1>km</iso-639-1>
+		<iso-639-2t>khm</iso-639-2t>
+		<iso-639-2b>khm</iso-639-2b>
+		<iso-639-3>khm</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ki">
+		<name>Gĩkũyũ</name>
+		<dir>ltr</dir>
+		<iso-639-1>ki</iso-639-1>
+		<iso-639-2t>kik</iso-639-2t>
+		<iso-639-2b>kik</iso-639-2b>
+		<iso-639-3>kik</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="rw">
+		<name>Ikinyarwanda</name>
+		<dir>ltr</dir>
+		<iso-639-1>rw</iso-639-1>
+		<iso-639-2t>kin</iso-639-2t>
+		<iso-639-2b>kin</iso-639-2b>
+		<iso-639-3>kin</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ky">
+		<name>Кыргызча, Кыргыз тили</name>
+		<dir>ltr</dir>
+		<iso-639-1>ky</iso-639-1>
+		<iso-639-2t>kir</iso-639-2t>
+		<iso-639-2b>kir</iso-639-2b>
+		<iso-639-3>kir</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="kv">
+		<name>коми кыв</name>
+		<dir>ltr</dir>
+		<iso-639-1>kv</iso-639-1>
+		<iso-639-2t>kom</iso-639-2t>
+		<iso-639-2b>kom</iso-639-2b>
+		<iso-639-3>kom + 2</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="kg">
+		<name>KiKongo</name>
+		<dir>ltr</dir>
+		<iso-639-1>kg</iso-639-1>
+		<iso-639-2t>kon</iso-639-2t>
+		<iso-639-2b>kon</iso-639-2b>
+		<iso-639-3>kon + 3</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ko">
+		<name>한국어 (韓國語), 조선어 (朝鮮語)</name>
+		<dir>ltr</dir>
+		<iso-639-1>ko</iso-639-1>
+		<iso-639-2t>kor</iso-639-2t>
+		<iso-639-2b>kor</iso-639-2b>
+		<iso-639-3>kor</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ku">
+		<name>Kurdî, كوردی‎</name>
+		<dir>ltr</dir>
+		<iso-639-1>ku</iso-639-1>
+		<iso-639-2t>kur</iso-639-2t>
+		<iso-639-2b>kur</iso-639-2b>
+		<iso-639-3>kur + 3</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="kj">
+		<name>Kuanyama</name>
+		<dir>ltr</dir>
+		<iso-639-1>kj</iso-639-1>
+		<iso-639-2t>kua</iso-639-2t>
+		<iso-639-2b>kua</iso-639-2b>
+		<iso-639-3>kua</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="la">
+		<name>Latine, lingua latina</name>
+		<dir>ltr</dir>
+		<iso-639-1>la</iso-639-1>
+		<iso-639-2t>lat</iso-639-2t>
+		<iso-639-2b>lat</iso-639-2b>
+		<iso-639-3>lat</iso-639-3>
+		<iso-639-6>lats</iso-639-6>
+	</lang>
+	<lang code="lb">
+		<name>Lëtzebuergesch</name>
+		<dir>ltr</dir>
+		<iso-639-1>lb</iso-639-1>
+		<iso-639-2t>ltz</iso-639-2t>
+		<iso-639-2b>ltz</iso-639-2b>
+		<iso-639-3>ltz</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="lg">
+		<name>Luganda</name>
+		<dir>ltr</dir>
+		<iso-639-1>lg</iso-639-1>
+		<iso-639-2t>lug</iso-639-2t>
+		<iso-639-2b>lug</iso-639-2b>
+		<iso-639-3>lug</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="li">
+		<name>Limburgs</name>
+		<dir>ltr</dir>
+		<iso-639-1>li</iso-639-1>
+		<iso-639-2t>lim</iso-639-2t>
+		<iso-639-2b>lim</iso-639-2b>
+		<iso-639-3>lim</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ln">
+		<name>Lingála</name>
+		<dir>ltr</dir>
+		<iso-639-1>ln</iso-639-1>
+		<iso-639-2t>lin</iso-639-2t>
+		<iso-639-2b>lin</iso-639-2b>
+		<iso-639-3>lin</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="lo">
+		<name>ພາສາລາວ</name>
+		<dir>ltr</dir>
+		<iso-639-1>lo</iso-639-1>
+		<iso-639-2t>lao</iso-639-2t>
+		<iso-639-2b>lao</iso-639-2b>
+		<iso-639-3>lao</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="lt">
+		<name>Lietuvių kalba</name>
+		<dir>ltr</dir>
+		<iso-639-1>lt</iso-639-1>
+		<iso-639-2t>lit</iso-639-2t>
+		<iso-639-2b>lit</iso-639-2b>
+		<iso-639-3>lit</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="lu">
+		<name>Tshiluba</name>
+		<dir>ltr</dir>
+		<iso-639-1>lu</iso-639-1>
+		<iso-639-2t>lub</iso-639-2t>
+		<iso-639-2b>lub</iso-639-2b>
+		<iso-639-3>lub</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="lv">
+		<name>Latviešu valoda</name>
+		<dir>ltr</dir>
+		<iso-639-1>lv</iso-639-1>
+		<iso-639-2t>lav</iso-639-2t>
+		<iso-639-2b>lav</iso-639-2b>
+		<iso-639-3>lav + 2</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="gv">
+		<name>Gaelg, Gailck</name>
+		<dir>ltr</dir>
+		<iso-639-1>gv</iso-639-1>
+		<iso-639-2t>glv</iso-639-2t>
+		<iso-639-2b>glv</iso-639-2b>
+		<iso-639-3>glv</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="mk">
+		<name>македонски јазик</name>
+		<dir>ltr</dir>
+		<iso-639-1>mk</iso-639-1>
+		<iso-639-2t>mkd</iso-639-2t>
+		<iso-639-2b>mac</iso-639-2b>
+		<iso-639-3>mkd</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="mg">
+		<name>Fiteny malagasy</name>
+		<dir>ltr</dir>
+		<iso-639-1>mg</iso-639-1>
+		<iso-639-2t>mlg</iso-639-2t>
+		<iso-639-2b>mlg</iso-639-2b>
+		<iso-639-3>mlg + 10</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ms">
+		<name>Bahasa Melayu, بهاس ملايو‎</name>
+		<dir>ltr</dir>
+		<iso-639-1>ms</iso-639-1>
+		<iso-639-2t>msa</iso-639-2t>
+		<iso-639-2b>may</iso-639-2b>
+		<iso-639-3>msa + 13</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ml">
+		<name>മലയാളം</name>
+		<dir>ltr</dir>
+		<iso-639-1>ml</iso-639-1>
+		<iso-639-2t>mal</iso-639-2t>
+		<iso-639-2b>mal</iso-639-2b>
+		<iso-639-3>mal</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="mt">
+		<name>Malti</name>
+		<dir>ltr</dir>
+		<iso-639-1>mt</iso-639-1>
+		<iso-639-2t>mlt</iso-639-2t>
+		<iso-639-2b>mlt</iso-639-2b>
+		<iso-639-3>mlt</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="mi">
+		<name>Te reo Māori</name>
+		<dir>ltr</dir>
+		<iso-639-1>mi</iso-639-1>
+		<iso-639-2t>mri</iso-639-2t>
+		<iso-639-2b>mao</iso-639-2b>
+		<iso-639-3>mri</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="mr">
+		<name>मराठी</name>
+		<dir>ltr</dir>
+		<iso-639-1>mr</iso-639-1>
+		<iso-639-2t>mar</iso-639-2t>
+		<iso-639-2b>mar</iso-639-2b>
+		<iso-639-3>mar</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="mh">
+		<name>Kajin M̧ajeļ</name>
+		<dir>ltr</dir>
+		<iso-639-1>mh</iso-639-1>
+		<iso-639-2t>mah</iso-639-2t>
+		<iso-639-2b>mah</iso-639-2b>
+		<iso-639-3>mah</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="mn">
+		<name>монгол</name>
+		<dir>ltr</dir>
+		<iso-639-1>mn</iso-639-1>
+		<iso-639-2t>mon</iso-639-2t>
+		<iso-639-2b>mon</iso-639-2b>
+		<iso-639-3>mon + 2</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="na">
+		<name>Ekakairũ Naoero</name>
+		<dir>ltr</dir>
+		<iso-639-1>na</iso-639-1>
+		<iso-639-2t>nau</iso-639-2t>
+		<iso-639-2b>nau</iso-639-2b>
+		<iso-639-3>nau</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="nv">
+		<name>Diné bizaad, Dinékʼehǰí</name>
+		<dir>ltr</dir>
+		<iso-639-1>nv</iso-639-1>
+		<iso-639-2t>nav</iso-639-2t>
+		<iso-639-2b>nav</iso-639-2b>
+		<iso-639-3>nav</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="nb">
+		<name>Norsk bokmål</name>
+		<dir>ltr</dir>
+		<iso-639-1>nb</iso-639-1>
+		<iso-639-2t>nob</iso-639-2t>
+		<iso-639-2b>nob</iso-639-2b>
+		<iso-639-3>nob</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="nd">
+		<name>isiNdebele</name>
+		<dir>ltr</dir>
+		<iso-639-1>nd</iso-639-1>
+		<iso-639-2t>nde</iso-639-2t>
+		<iso-639-2b>nde</iso-639-2b>
+		<iso-639-3>nde</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ne">
+		<name>नेपाली</name>
+		<dir>ltr</dir>
+		<iso-639-1>ne</iso-639-1>
+		<iso-639-2t>nep</iso-639-2t>
+		<iso-639-2b>nep</iso-639-2b>
+		<iso-639-3>nep</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ng">
+		<name>Owambo</name>
+		<dir>ltr</dir>
+		<iso-639-1>ng</iso-639-1>
+		<iso-639-2t>ndo</iso-639-2t>
+		<iso-639-2b>ndo</iso-639-2b>
+		<iso-639-3>ndo</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="nn">
+		<name>Norsk nynorsk</name>
+		<dir>ltr</dir>
+		<iso-639-1>nn</iso-639-1>
+		<iso-639-2t>nno</iso-639-2t>
+		<iso-639-2b>nno</iso-639-2b>
+		<iso-639-3>nno</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="no">
+		<name>Norsk</name>
+		<dir>ltr</dir>
+		<iso-639-1>no</iso-639-1>
+		<iso-639-2t>nor</iso-639-2t>
+		<iso-639-2b>nor</iso-639-2b>
+		<iso-639-3>nor + 2</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ii">
+		<name>ꆈꌠ꒿ Nuosuhxop</name>
+		<dir>ltr</dir>
+		<iso-639-1>ii</iso-639-1>
+		<iso-639-2t>iii</iso-639-2t>
+		<iso-639-2b>iii</iso-639-2b>
+		<iso-639-3>iii</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="nr">
+		<name>isiNdebele</name>
+		<dir>ltr</dir>
+		<iso-639-1>nr</iso-639-1>
+		<iso-639-2t>nbl</iso-639-2t>
+		<iso-639-2b>nbl</iso-639-2b>
+		<iso-639-3>nbl</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="oc">
+		<name>Occitan</name>
+		<dir>ltr</dir>
+		<iso-639-1>oc</iso-639-1>
+		<iso-639-2t>oci</iso-639-2t>
+		<iso-639-2b>oci</iso-639-2b>
+		<iso-639-3>oci</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="oj">
+		<name>ᐊᓂᔑᓈᐯᒧᐎᓐ</name>
+		<dir>ltr</dir>
+		<iso-639-1>oj</iso-639-1>
+		<iso-639-2t>oji</iso-639-2t>
+		<iso-639-2b>oji</iso-639-2b>
+		<iso-639-3>oji + 7</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="cu">
+		<name>ѩзыкъ словѣньскъ</name>
+		<dir>ltr</dir>
+		<iso-639-1>cu</iso-639-1>
+		<iso-639-2t>chu</iso-639-2t>
+		<iso-639-2b>chu</iso-639-2b>
+		<iso-639-3>chu</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="om">
+		<name>Afaan Oromoo</name>
+		<dir>ltr</dir>
+		<iso-639-1>om</iso-639-1>
+		<iso-639-2t>orm</iso-639-2t>
+		<iso-639-2b>orm</iso-639-2b>
+		<iso-639-3>orm + 4</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="or">
+		<name>ଓଡ଼ିଆ</name>
+		<dir>ltr</dir>
+		<iso-639-1>or</iso-639-1>
+		<iso-639-2t>ori</iso-639-2t>
+		<iso-639-2b>ori</iso-639-2b>
+		<iso-639-3>ori</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="os">
+		<name>ирон æвзаг</name>
+		<dir>ltr</dir>
+		<iso-639-1>os</iso-639-1>
+		<iso-639-2t>oss</iso-639-2t>
+		<iso-639-2b>oss</iso-639-2b>
+		<iso-639-3>oss</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="pa">
+		<name>ਪੰਜਾਬੀ, پنجابی‎</name>
+		<dir>ltr</dir>
+		<iso-639-1>pa</iso-639-1>
+		<iso-639-2t>pan</iso-639-2t>
+		<iso-639-2b>pan</iso-639-2b>
+		<iso-639-3>pan</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="pi">
+		<name>पाऴि</name>
+		<dir>ltr</dir>
+		<iso-639-1>pi</iso-639-1>
+		<iso-639-2t>pli</iso-639-2t>
+		<iso-639-2b>pli</iso-639-2b>
+		<iso-639-3>pli</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="fa">
+		<name>فارسی</name>
+		<dir>rtl</dir>
+		<iso-639-1>fa</iso-639-1>
+		<iso-639-2t>fas</iso-639-2t>
+		<iso-639-2b>per</iso-639-2b>
+		<iso-639-3>fas + 2</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="pl">
+		<name>Język polski, polszczyzna</name>
+		<dir>ltr</dir>
+		<iso-639-1>pl</iso-639-1>
+		<iso-639-2t>pol</iso-639-2t>
+		<iso-639-2b>pol</iso-639-2b>
+		<iso-639-3>pol</iso-639-3>
+		<iso-639-6>pols</iso-639-6>
+	</lang>
+	<lang code="ps">
+		<name>پښتو</name>
+		<dir>rtl</dir>
+		<iso-639-1>ps</iso-639-1>
+		<iso-639-2t>pus</iso-639-2t>
+		<iso-639-2b>pus</iso-639-2b>
+		<iso-639-3>pus + 3</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="pt">
+		<name>Português</name>
+		<dir>ltr</dir>
+		<iso-639-1>pt</iso-639-1>
+		<iso-639-2t>por</iso-639-2t>
+		<iso-639-2b>por</iso-639-2b>
+		<iso-639-3>por</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="qu">
+		<name>Runa Simi, Kichwa</name>
+		<dir>ltr</dir>
+		<iso-639-1>qu</iso-639-1>
+		<iso-639-2t>que</iso-639-2t>
+		<iso-639-2b>que</iso-639-2b>
+		<iso-639-3>que + 44</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="rm">
+		<name>Rumantsch grischun</name>
+		<dir>ltr</dir>
+		<iso-639-1>rm</iso-639-1>
+		<iso-639-2t>roh</iso-639-2t>
+		<iso-639-2b>roh</iso-639-2b>
+		<iso-639-3>roh</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="rn">
+		<name>Ikirundi</name>
+		<dir>ltr</dir>
+		<iso-639-1>rn</iso-639-1>
+		<iso-639-2t>run</iso-639-2t>
+		<iso-639-2b>run</iso-639-2b>
+		<iso-639-3>run</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ro">
+		<name>Română</name>
+		<dir>ltr</dir>
+		<iso-639-1>ro</iso-639-1>
+		<iso-639-2t>ron</iso-639-2t>
+		<iso-639-2b>rum</iso-639-2b>
+		<iso-639-3>ron</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ru">
+		<name>русский язык</name>
+		<dir>ltr</dir>
+		<iso-639-1>ru</iso-639-1>
+		<iso-639-2t>rus</iso-639-2t>
+		<iso-639-2b>rus</iso-639-2b>
+		<iso-639-3>rus</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="sa">
+		<name>संस्कृतम्</name>
+		<dir>ltr</dir>
+		<iso-639-1>sa</iso-639-1>
+		<iso-639-2t>san</iso-639-2t>
+		<iso-639-2b>san</iso-639-2b>
+		<iso-639-3>san</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="sc">
+		<name>Sardu</name>
+		<dir>ltr</dir>
+		<iso-639-1>sc</iso-639-1>
+		<iso-639-2t>srd</iso-639-2t>
+		<iso-639-2b>srd</iso-639-2b>
+		<iso-639-3>srd + 4</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="sd">
+		<name>सिन्धी, سنڌي، سندھی‎</name>
+		<dir>ltr</dir>
+		<iso-639-1>sd</iso-639-1>
+		<iso-639-2t>snd</iso-639-2t>
+		<iso-639-2b>snd</iso-639-2b>
+		<iso-639-3>snd</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="se">
+		<name>Davvisámegiella</name>
+		<dir>ltr</dir>
+		<iso-639-1>se</iso-639-1>
+		<iso-639-2t>sme</iso-639-2t>
+		<iso-639-2b>sme</iso-639-2b>
+		<iso-639-3>sme</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="sm">
+		<name>Gagana fa'a Samoa</name>
+		<dir>ltr</dir>
+		<iso-639-1>sm</iso-639-1>
+		<iso-639-2t>smo</iso-639-2t>
+		<iso-639-2b>smo</iso-639-2b>
+		<iso-639-3>smo</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="sg">
+		<name>Yângâ tî sängö</name>
+		<dir>ltr</dir>
+		<iso-639-1>sg</iso-639-1>
+		<iso-639-2t>sag</iso-639-2t>
+		<iso-639-2b>sag</iso-639-2b>
+		<iso-639-3>sag</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="sr">
+		<name>Cрпски језик</name>
+		<dir>ltr</dir>
+		<iso-639-1>sr</iso-639-1>
+		<iso-639-2t>srp</iso-639-2t>
+		<iso-639-2b>srp</iso-639-2b>
+		<iso-639-3>srp</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="gd">
+		<name>Gàidhlig</name>
+		<dir>ltr</dir>
+		<iso-639-1>gd</iso-639-1>
+		<iso-639-2t>gla</iso-639-2t>
+		<iso-639-2b>gla</iso-639-2b>
+		<iso-639-3>gla</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="sn">
+		<name>chiShona</name>
+		<dir>ltr</dir>
+		<iso-639-1>sn</iso-639-1>
+		<iso-639-2t>sna</iso-639-2t>
+		<iso-639-2b>sna</iso-639-2b>
+		<iso-639-3>sna</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="si">
+		<name>සිංහල</name>
+		<dir>ltr</dir>
+		<iso-639-1>si</iso-639-1>
+		<iso-639-2t>sin</iso-639-2t>
+		<iso-639-2b>sin</iso-639-2b>
+		<iso-639-3>sin</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="sk">
+		<name>Slovenčina</name>
+		<dir>ltr</dir>
+		<iso-639-1>sk</iso-639-1>
+		<iso-639-2t>slk</iso-639-2t>
+		<iso-639-2b>slo</iso-639-2b>
+		<iso-639-3>slk</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="sl">
+		<name>Slovenščina</name>
+		<dir>ltr</dir>
+		<iso-639-1>sl</iso-639-1>
+		<iso-639-2t>slv</iso-639-2t>
+		<iso-639-2b>slv</iso-639-2b>
+		<iso-639-3>slv</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="so">
+		<name>Soomaaliga</name>
+		<dir>ltr</dir>
+		<iso-639-1>so</iso-639-1>
+		<iso-639-2t>som</iso-639-2t>
+		<iso-639-2b>som</iso-639-2b>
+		<iso-639-3>som</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="st">
+		<name>Sesotho</name>
+		<dir>ltr</dir>
+		<iso-639-1>st</iso-639-1>
+		<iso-639-2t>sot</iso-639-2t>
+		<iso-639-2b>sot</iso-639-2b>
+		<iso-639-3>sot</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="es">
+		<name>Español</name>
+		<dir>ltr</dir>
+		<iso-639-1>es</iso-639-1>
+		<iso-639-2t>spa</iso-639-2t>
+		<iso-639-2b>spa</iso-639-2b>
+		<iso-639-3>spa</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="su">
+		<name>Basa Sunda</name>
+		<dir>ltr</dir>
+		<iso-639-1>su</iso-639-1>
+		<iso-639-2t>sun</iso-639-2t>
+		<iso-639-2b>sun</iso-639-2b>
+		<iso-639-3>sun</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="sw">
+		<name>Kiswahili</name>
+		<dir>ltr</dir>
+		<iso-639-1>sw</iso-639-1>
+		<iso-639-2t>swa</iso-639-2t>
+		<iso-639-2b>swa</iso-639-2b>
+		<iso-639-3>swa + 2</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ss">
+		<name>SiSwati</name>
+		<dir>ltr</dir>
+		<iso-639-1>ss</iso-639-1>
+		<iso-639-2t>ssw</iso-639-2t>
+		<iso-639-2b>ssw</iso-639-2b>
+		<iso-639-3>ssw</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="sv">
+		<name>Svenska</name>
+		<dir>ltr</dir>
+		<iso-639-1>sv</iso-639-1>
+		<iso-639-2t>swe</iso-639-2t>
+		<iso-639-2b>swe</iso-639-2b>
+		<iso-639-3>swe</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ta">
+		<name>தமிழ்</name>
+		<dir>ltr</dir>
+		<iso-639-1>ta</iso-639-1>
+		<iso-639-2t>tam</iso-639-2t>
+		<iso-639-2b>tam</iso-639-2b>
+		<iso-639-3>tam</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="te">
+		<name>తెలుగు</name>
+		<dir>ltr</dir>
+		<iso-639-1>te</iso-639-1>
+		<iso-639-2t>tel</iso-639-2t>
+		<iso-639-2b>tel</iso-639-2b>
+		<iso-639-3>tel</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="tg">
+		<name>тоҷикӣ, toğikī, تاجیکی‎</name>
+		<dir>ltr</dir>
+		<iso-639-1>tg</iso-639-1>
+		<iso-639-2t>tgk</iso-639-2t>
+		<iso-639-2b>tgk</iso-639-2b>
+		<iso-639-3>tgk</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="th">
+		<name>ไทย</name>
+		<dir>ltr</dir>
+		<iso-639-1>th</iso-639-1>
+		<iso-639-2t>tha</iso-639-2t>
+		<iso-639-2b>tha</iso-639-2b>
+		<iso-639-3>tha</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ti">
+		<name>ትግርኛ</name>
+		<dir>ltr</dir>
+		<iso-639-1>ti</iso-639-1>
+		<iso-639-2t>tir</iso-639-2t>
+		<iso-639-2b>tir</iso-639-2b>
+		<iso-639-3>tir</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="bo">
+		<name>བོད་ཡིག</name>
+		<dir>ltr</dir>
+		<iso-639-1>bo</iso-639-1>
+		<iso-639-2t>bod</iso-639-2t>
+		<iso-639-2b>tib</iso-639-2b>
+		<iso-639-3>bod</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="tk">
+		<name>Türkmen, Түркмен</name>
+		<dir>ltr</dir>
+		<iso-639-1>tk</iso-639-1>
+		<iso-639-2t>tuk</iso-639-2t>
+		<iso-639-2b>tuk</iso-639-2b>
+		<iso-639-3>tuk</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="tl">
+		<name>Wikang Tagalog, ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔</name>
+		<dir>ltr</dir>
+		<iso-639-1>tl</iso-639-1>
+		<iso-639-2t>tgl</iso-639-2t>
+		<iso-639-2b>tgl</iso-639-2b>
+		<iso-639-3>tgl</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="tn">
+		<name>Setswana</name>
+		<dir>ltr</dir>
+		<iso-639-1>tn</iso-639-1>
+		<iso-639-2t>tsn</iso-639-2t>
+		<iso-639-2b>tsn</iso-639-2b>
+		<iso-639-3>tsn</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="to">
+		<name>faka Tonga</name>
+		<dir>ltr</dir>
+		<iso-639-1>to</iso-639-1>
+		<iso-639-2t>ton</iso-639-2t>
+		<iso-639-2b>ton</iso-639-2b>
+		<iso-639-3>ton</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="tr">
+		<name>Türkçe</name>
+		<dir>ltr</dir>
+		<iso-639-1>tr</iso-639-1>
+		<iso-639-2t>tur</iso-639-2t>
+		<iso-639-2b>tur</iso-639-2b>
+		<iso-639-3>tur</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ts">
+		<name>Xitsonga</name>
+		<dir>ltr</dir>
+		<iso-639-1>ts</iso-639-1>
+		<iso-639-2t>tso</iso-639-2t>
+		<iso-639-2b>tso</iso-639-2b>
+		<iso-639-3>tso</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="tt">
+		<name>татар теле, tatar tele</name>
+		<dir>ltr</dir>
+		<iso-639-1>tt</iso-639-1>
+		<iso-639-2t>tat</iso-639-2t>
+		<iso-639-2b>tat</iso-639-2b>
+		<iso-639-3>tat</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="tw">
+		<name>Twi</name>
+		<dir>ltr</dir>
+		<iso-639-1>tw</iso-639-1>
+		<iso-639-2t>twi</iso-639-2t>
+		<iso-639-2b>twi</iso-639-2b>
+		<iso-639-3>twi</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ty">
+		<name>Reo Tahiti</name>
+		<dir>ltr</dir>
+		<iso-639-1>ty</iso-639-1>
+		<iso-639-2t>tah</iso-639-2t>
+		<iso-639-2b>tah</iso-639-2b>
+		<iso-639-3>tah</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ug">
+		<name>Uyƣurqə, ئۇيغۇرچە‎</name>
+		<dir>ltr</dir>
+		<iso-639-1>ug</iso-639-1>
+		<iso-639-2t>uig</iso-639-2t>
+		<iso-639-2b>uig</iso-639-2b>
+		<iso-639-3>uig</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="uk">
+		<name>українська мова</name>
+		<dir>ltr</dir>
+		<iso-639-1>uk</iso-639-1>
+		<iso-639-2t>ukr</iso-639-2t>
+		<iso-639-2b>ukr</iso-639-2b>
+		<iso-639-3>ukr</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ur">
+		<name>اردو</name>
+		<dir>rtl</dir>
+		<iso-639-1>ur</iso-639-1>
+		<iso-639-2t>urd</iso-639-2t>
+		<iso-639-2b>urd</iso-639-2b>
+		<iso-639-3>urd</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="uz">
+		<name>O'zbek, Ўзбек, أۇزبېك‎</name>
+		<dir>ltr</dir>
+		<iso-639-1>uz</iso-639-1>
+		<iso-639-2t>uzb</iso-639-2t>
+		<iso-639-2b>uzb</iso-639-2b>
+		<iso-639-3>uzb + 2</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="ve">
+		<name>Tshivenḓa</name>
+		<dir>ltr</dir>
+		<iso-639-1>ve</iso-639-1>
+		<iso-639-2t>ven</iso-639-2t>
+		<iso-639-2b>ven</iso-639-2b>
+		<iso-639-3>ven</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="vi">
+		<name>Tiếng Việt</name>
+		<dir>ltr</dir>
+		<iso-639-1>vi</iso-639-1>
+		<iso-639-2t>vie</iso-639-2t>
+		<iso-639-2b>vie</iso-639-2b>
+		<iso-639-3>vie</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="vo">
+		<name>Volapük</name>
+		<dir>ltr</dir>
+		<iso-639-1>vo</iso-639-1>
+		<iso-639-2t>vol</iso-639-2t>
+		<iso-639-2b>vol</iso-639-2b>
+		<iso-639-3>vol</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="wa">
+		<name>Walon</name>
+		<dir>ltr</dir>
+		<iso-639-1>wa</iso-639-1>
+		<iso-639-2t>wln</iso-639-2t>
+		<iso-639-2b>wln</iso-639-2b>
+		<iso-639-3>wln</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="cy">
+		<name>Cymraeg</name>
+		<dir>ltr</dir>
+		<iso-639-1>cy</iso-639-1>
+		<iso-639-2t>cym</iso-639-2t>
+		<iso-639-2b>wel</iso-639-2b>
+		<iso-639-3>cym</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="wo">
+		<name>Wollof</name>
+		<dir>ltr</dir>
+		<iso-639-1>wo</iso-639-1>
+		<iso-639-2t>wol</iso-639-2t>
+		<iso-639-2b>wol</iso-639-2b>
+		<iso-639-3>wol</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="fy">
+		<name>Frysk</name>
+		<dir>ltr</dir>
+		<iso-639-1>fy</iso-639-1>
+		<iso-639-2t>fry</iso-639-2t>
+		<iso-639-2b>fry</iso-639-2b>
+		<iso-639-3>fry</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="xh">
+		<name>isiXhosa</name>
+		<dir>ltr</dir>
+		<iso-639-1>xh</iso-639-1>
+		<iso-639-2t>xho</iso-639-2t>
+		<iso-639-2b>xho</iso-639-2b>
+		<iso-639-3>xho</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="yi">
+		<name>ייִדיש</name>
+		<dir>rtl</dir>
+		<iso-639-1>yi</iso-639-1>
+		<iso-639-2t>yid</iso-639-2t>
+		<iso-639-2b>yid</iso-639-2b>
+		<iso-639-3>yid + 2</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="yo">
+		<name>Yorùbá</name>
+		<dir>ltr</dir>
+		<iso-639-1>yo</iso-639-1>
+		<iso-639-2t>yor</iso-639-2t>
+		<iso-639-2b>yor</iso-639-2b>
+		<iso-639-3>yor</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="za">
+		<name>Saɯ cueŋƅ, Saw cuengh</name>
+		<dir>ltr</dir>
+		<iso-639-1>za</iso-639-1>
+		<iso-639-2t>zha</iso-639-2t>
+		<iso-639-2b>zha</iso-639-2b>
+		<iso-639-3>zha + 16</iso-639-3>
+		<iso-639-6/>
+	</lang>
+	<lang code="zu">
+		<name>isiZulu</name>
+		<dir>ltr</dir>
+		<iso-639-1>zu</iso-639-1>
+		<iso-639-2t>zul</iso-639-2t>
+		<iso-639-2b>zul</iso-639-2b>
+		<iso-639-3>zul</iso-639-3>
+		<iso-639-6/>
+	</lang>
+</languages>

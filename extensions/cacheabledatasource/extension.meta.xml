@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension id="cacheabledatasource" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+	<name>Cacheable Datasource</name>
+	<description lang="en">Improve page performance by caching data source output XML.</description>
+	<repo type="github">https://github.com/symphonists/cacheabledatasource</repo>
+	<url type="issues">https://github.com/symphonists/cacheabledatasource/issues</url>
+	<types>
+		<type>Performance</type>
+		<type>Cache</type>
+	</types>
+	<authors>
+		<author>
+			<name github="symphonists" symphony="community">Symphony Community</name>
+			<website>https://www.getsymphony.com</website>
+		</author>
+		<author>
+			<name github="nickdunn" symphony="nickdunn" twitter="nickdunn">Nick Dunn</name>
+			<website>http://nick-dunn.co.uk</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="2.5.2" date="2018-01-18" min="2.6.0" max="2.x.x">
+			- Code fix: Use CACHE for consistentcy (#28)
+		</release>
+		<release version="2.5.1" date="2017-11-22" min="2.6.0" max="2.x.x">
+			- Bug fix: Make sure the cache file gets created (#26)
+		</release>
+		<release version="2.5.0" date="2017-11-13" min="2.6.0" max="2.x.x">
+			- Add infinite cache duration (#25)
+		</release>
+		<release version="2.4.0" date="2017-10-27" min="2.6.0" max="2.x.x">
+			- Add cache-expiration attribute in Data Source (#24)
+		</release>
+		<release version="2.3.2" date="2017-07-13" min="2.6.0" max="2.x.x">
+			- Fix regression with ignored data sources (#22)
+		</release>
+		<release version="2.3.1" date="2017-03-30" min="2.6.0" max="2.x.x">
+			- Fix wrong label which is in seconds, not minutes (#22)
+			- Fix potential remote code execution vector
+		</release>
+		<release version="2.3.0" date="2017-03-30" min="2.6.0" max="2.x.x">
+			- Fix issue with associated sections (#12)
+			- Prevent double caching when the data source is a remote or dynamic data source
+			- Add support for frontend_localisation and multilingual fields
+		</release>
+		<release version="2.2.0" date="2015-09-11" min="2.6">
+			- Fix parameter pool handling (#14)
+			- Fix datasource filter storage (#17)
+			- Clean-up
+		</release>
+		<release version="2.1.1" date="2015-08-28" min="2.4">
+			- Improved and updated documentation in readme file
+		</release>
+		<release version="2.1.0" date="2014-06-16" min="2.4">
+			- Added cache folder creation, if missing
+		</release>
+		<release version="2.0.0" date="2014-04-16" min="2.4">
+			- Symphony 2.4 compatibility
+		</release>
+		<release version="1.1.1" date="2012-03-11" min="2.3" />
+		<release version="1.1.0" date="2011-10-04" min="2.3" />
+		<release version="1.0.0" date="2011-10-03" min="2.2" max="2.2.5">
+			- major milestone release
+			- removed unnecessary bloat of the Cache Viewer page
+			- cache files are now stored in a folder within the cache directory for easier bulk purging
+			- no more editing of data sources! Caching is applied unobtrusively with delegates and JavaScript (Symphony 2.3+) meaning you don't need to touch PHP and customise your data source files
+		</release>
+		<release version="0.5" date="2011-09-01">
+			- fixed a major bug whereby the extension would not escape invalid XML properly
+		</release>
+	</releases>
+</extension>

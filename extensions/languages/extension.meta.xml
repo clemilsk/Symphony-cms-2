@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="languages" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+	<name>Languages</name>
+	<description>Offers languages support.</description>
+	<repo type="github">https://github.com/DeuxHuitHuit/languages</repo>
+	<types>
+		<type>Field</type>
+		<type>Multilingual</type>
+	</types>
+	<dependencies>
+		<dependency version="1.5">exsl_function_manager</dependency>
+	</dependencies>
+	<authors>
+		<author>
+			<name github="DeuxHuitHuit" symphony="nitriques" twitter="DeuxHuitHuit">Deux Huit Huit</name>
+			<website>https://deuxhuithuit.com</website>
+		</author>
+		<author>
+			<name github="vlad-ghita" symphony="vladG">Vlad Ghita</name>
+			<email>vlad_micutul@yahoo.com</email>
+			<website>http://www.xanderadvertising.com</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.2.2" date="2016-08-03" min="2.3.4" max="2.x.x"><![CDATA[
+			* Updated compatibility PHP 7
+		]]></release>		
+		<release version="1.2.1" date="2016-03-20" min="2.3.4" max="2.x.x"><![CDATA[
+			* Updated compatibility infos
+		]]></release>
+		<release version="1.2" date="2013-11-27" min="2.3.4"><![CDATA[
+			* Modified `findOptions` method to allow improved flexibility.
+		]]></release>
+		<release version="1.1" date="2013-11-21" min="2.3.x"><![CDATA[
+			* Fixed Romanian translation
+		]]></release>
+		<release version="1.0" date="2013-09-30" min="2.3.x"><![CDATA[
+			* First release.
+		]]></release>
+	</releases>
+</extension>

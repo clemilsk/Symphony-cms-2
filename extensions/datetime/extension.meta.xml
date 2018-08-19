@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="datetime" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+	<name>Date and Time</name>
+	<description>Date and time management for Symphony</description>
+	<repo type="github">https://github.com/DeuxHuitHuit/datetime</repo>
+	<url type="discuss">https://www.getsymphony.com/discuss/thread/83265</url>
+	<types>
+		<type>Field</type>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="hananils" symphony="hananils">Büro für Web- und Textgestaltung</name>
+			<website>http://hananils.de</website>
+		</author>
+		<author>
+			<name github="nilshoerrmann" symphony="Nils">Nils Hörrmann</name>
+			<website>http://nilshoerrmann.de</website>
+		</author>
+		<author>
+			<name github="DeuxHuitHuit" symphony="nitriques" twitter="DeuxHuitHuit">Deux Huit Huit</name>
+			<website>https://deuxhuithuit.com/</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="3.9.0" date="2018-01-15" min="2.5.0" max="2.x.x">
+			- Add `IS NULL` filter for start and end mode
+		</release>
+		<release version="3.8.3" date="2017-10-30" min="2.5.0" max="2.x.x">
+			- Fix for `buildSortingSelectSQL()`
+		</release>
+		<release version="3.8.2" date="2017-09-12" min="2.5.0" max="2.x.x">
+			- Implement the 2.7.0 `buildSortingSelectSQL()` method for MySQL 5.7
+		</release>
+		<release version="3.8.1" date="2017-08-10" min="2.5.0" max="2.x.x">
+			- Remove the hardcoded /symphony admin url part
+		</release>
+		<release version="3.8.0" date="2017-06-26" min="2.5.0" max="2.x.x">
+			- Add support for Spanish Language
+		</release>
+		<release version="3.7.1" date="2017-06-05" min="2.5.0" max="2.x.x">
+			- Fix syntax error in Portuguese Language
+		</release>
+		<release version="3.7.0" date="2017-05-26" min="2.5.0" max="2.x.x">
+			- Add support for Portuguese Language
+		</release>
+		<release version="3.6.0" date="2017-04-05" min="2.5.0" max="2.x.x">
+			- Add support for Dutch Language
+		</release>
+		<release version="3.5.3" date="2016-03-10" min="2.5.0" max="2.x.x">
+			- Fix issue when sorting nulls
+			- Fix décembre french translation
+		</release>
+		<release version="3.5.2" date="2015-06-26" min="2.5.0" max="2.6.x">
+			- Fix issues (regression) when sorting only
+			- Fix bug when there are not date or time formats in Symphony's config
+		</release>
+		<release version="3.5.1" date="2015-05-29" min="2.5.0" max="2.6.x">
+			- Fix issues with filtering + sorting
+		</release>
+		<release version="3.5.0" date="2015-04-30" min="2.5.0" max="2.6.x">
+			- Fix css clash in 2.6.0
+			- Fix error when sorting
+			- Implemented the new prepareValues API
+		</release>
+		<release version="3.4.4" date="2014-09-04" min="2.5.0" max="2.5.2">
+			- Updated the Data Source output
+			- Fixed double border in UI
+		</release>
+		<release version="3.4.3" date="2014-09-04" min="2.5.0">
+			- Make sure 00:00:00 is saved when time is disabled
+		</release>
+		<release version="3.4.2" date="2014-08-28" min="2.5.0">
+			- Fix UI glitch when in single mode (regression bug)
+		</release>
+		<release version="3.4.1" date="2014-08-12" min="2.5.0">
+			- Fix UI glitch when removing the end of the range
+		</release>
+		<release version="3.4.0" date="2014-07-15" min="2.5.0">
+			- Symphony 2.5 compatibility
+			- Minor improvement for performance
+		</release>
+		<release version="3.3.1" date="2014-07-11" min="2.4" max="2.4.0">
+			- Symphony 2.4 compatibility minor fix
+		</release>
+		<release version="3.3.0" date="2013-11-29" min="2.4">
+			- Symphony 2.4 compatibility
+		</release>
+		<release version="3.2.0" date="2013-11-29" min="2.3">
+			- Add `time` elements to table indexes
+		</release>
+		<release version="3.1.2" date="2013-09-04" min="2.3">
+			- Fix date sorting
+			- Small corrections
+		</release>
+		<release version="3.1.1" date="2013-07-04" min="2.3">
+			- Improved filter error handling
+			- Add timestamps to XML output
+		</release>
+		<release version="3.1.0" date="2013-04-06" min="2.3">
+			- Simplify calendar opening and closing actions
+			- Remove inline help – this should be handled by developers individually
+			- Fix issues with field settings
+		</release>
+		<release version="3.0.7" date="2013-04-06" min="2.3">
+			- General fixes and compatibility updates
+		</release>
+		<release version="3.0.6" date="2012-08-17" min="2.3">
+			- Fix language detection in Data Source
+		</release>
+		<release version="3.0.5" date="2012-08-12" min="2.3">
+			- Fix collapsing state storage
+		</release>
+		<release version="3.0.4" date="2012-07-12" min="2.3">
+			- Minor fixes and improvements.
+		</release>
+		<release version="3.0.3" date="2012-05-10" min="2.3">
+			- Updated German translation.
+		</release>
+		<release version="3.0.2" date="2012-05-07" min="2.3">
+			- Fixed problems with Date and Time fields inside subsections.
+		</release>
+		<release version="3.0.1" date="2012-05-07" min="2.3">
+			- Removed accidentally bundled Stage submodule.
+		</release>
+		<release version="3.0.0" date="2012-05-06" min="2.3">
+			- Symphony 2.3 compatibility.
+			- Switched from Stage to Duplicator to generate the interface.
+			- Added inline help.
+			- Simplified layout for single date fields.
+		</release>
+		<release version="2.4.0" date="2012-02-14" min="2.2.1" max="2.2.5">
+			- Allow field to be required. (Thanks, Brendan!)
+			- Include languages for Date and Time Data Source in preferences.
+			- Added month and year selects.
+			- Fix timeline behaviour.
+			- General improvements. (Thanks, Brendan!)
+		</release>
+		<release version="2.3.2" date="2012-01-17" min="2.2.1" max="2.2.5">
+			- Updated forum link.
+		</release>
+		<release version="2.3.1" date="2012-01-17" min="2.2.1" max="2.2.5">
+			- Update meta informations.
+		</release>
+		<release version="2.3.0" date="2012-01-17" min="2.2.1" max="2.2.5">
+			- Moved extension and Stage submodule to new home.
+		</release>
+		<release version="2.2.4" date="2011-12-13" min="2.2.1" max="2.2.5">
+			- Updated `extension.meta.xml.
+		</release>
+		<release version="2.2.3" date="2011-12-06" min="2.2.1" max="2.2.5">
+			- Updated `extension.meta.xml.
+		</release>
+		<release version="2.2.2" date="2011-12-06" min="2.2.1" max="2.2.5">
+			- Updated readme.
+		</release>
+		<release version="2.2.1" date="2011-12-06" min="2.2.1" max="2.2.5">
+			- Updated basic extension information and `extension.meta.xml`.
+		</release>
+		<release version="2.2.0" date="2011-12-03" min="2.2.1" max="2.2.5">
+			- Added `extension.meta.xml` file.
+			- Fix timezone issues.
+			- Improved parameter output.
+			- Improved Data Source sorting and grouping. (Thanks, Brendan and Nicolas!)
+			- General clean-up. (Thanks, Brendan!)
+		</release>
+		<release version="2.1.1" date="2011-07-27" min="2.2.1" max="2.2.5">
+			- Safari compatibility for keyboard interactions.
+		</release>
+		<release version="2.1.0" date="2011-07-26" min="2.2.1" max="2.2.5">
+			- Added French translation. (Thanks, Nicolas!)
+			- Added new `extended` filter mode. (Thanks, Nicolas!)
+			- Access end dates via tab key. (Thanks, Brendan!)
+		</release>
+		<release version="2.0.1" date="2011-06-17" min="2.2.1" max="2.2.5">
+			- Corrected version number.
+		</release>
+		<release version="2.0.0" date="2011-06-16" min="2.2.1" max="2.2.5">
+			- Implemented Stage.
+			- Implemented new calendar.
+			- Symphony 2.2 compatibility.
+			- General code clean-up.
+			- A lot of tiny bug fixes.
+		</release>
+		<release version="1.5.1" date="2010-11-22" min="2.1.2" max="2.2">
+			- Section Schema compatibility. (Thanks, Brendan!)
+		</release>
+		<release version="1.5.0" date="2010-11-10" min="2.1.2">
+			- Added Norwegian translation. (Thanks, Frode!)
+			- Updated data source filtering. (Thanks, John!)
+		</release>
+		<release version="1.4.0" date="2010-08-27" min="2.1.1">
+			- Added Italian translation, improved date localisation. (Thanks, Simone!)
+		</release>
+		<release version="1.3.0" date="2010-01-15" min="2.0.6" max="2.1">
+			- Added German translation, improved date handling.
+			- Fixed a lot of bugs and overall improvements. (Thanks, Brendan!)
+		</release>
+		<release version="1.2.0" date="2009-08-26" min="2.0.4" max="2.0.5">
+			- Added support for data source grouping (calendar view).
+		</release>
+		<release version="1.1.0" date="2009-08-25" min="2.0.4">
+			- Added support for data source filtering.
+		</release>
+		<release version="1.0.2" date="2009-08-24" min="2.0.4">
+			- Minor bug fixes.
+		</release>
+		<release version="1.0.1" date="2009-08-03" min="2.0.4">
+			- Minor bug fixes.
+		</release>
+		<release version="1.0.0" date="2009-08-21" min="2.0.4">
+			- Initial release.
+		</release>
+	</releases>
+</extension>

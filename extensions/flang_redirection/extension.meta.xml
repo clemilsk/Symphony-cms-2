@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="flang_redirection" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+	<name>Frontend Localisation Redirection</name>
+	<description lang="en">Adds redirection capabilities to Frontend Localisation Extension</description>
+	<repo type="github">https://github.com/DeuxHuitHuit/flang_redirection</repo>
+	<url type="wiki">https://github.com/DeuxHuitHuit/flang_redirection/wiki</url>
+	<url type="issues">https://github.com/DeuxHuitHuit/flang_redirection/issues</url>
+	<types>
+		<type>Event</type>
+		<type>Redirection</type>
+		<type>Multilingual</type>
+	</types>
+	<authors>
+		<author>
+			<name github="DeuxHuitHuit" symphony="" twitter="DeuxHuitHuit">Deux Huit Huit</name>
+			<website>https://deuxhuithuit.com/</website>
+		</author>
+	</authors>
+	<dependencies>
+		<dependency version="2.7.0">frontend_localisation</dependency>
+		<dependency version="1.1">flang_detection_gtlds</dependency>
+	</dependencies>
+	<releases>
+		<release version="2.0.2" date="2017-12-14" min="2.5.0" max="2.x.x">
+		- Always define the XSLT variable
+		</release>
+		<release version="2.0.1" date="2017-01-06" min="2.5.0" max="2.x.x">
+		- Fix problems when installing flang_redirection before frontend_localisation
+		</release>
+		<release version="2.0.0" date="2016-07-09" min="2.5.0" max="2.x.x">
+		- Added more validation of user input values
+		- Fix problems with regions (update to frontend_localisation 2.7.0 required)
+		</release>
+		<release version="1.2.6" date="2016-03-17" min="2.3" max="2.x.x">
+		- Prevent crash when parsing browser languages
+		</release>
+		<release version="1.2.5" date="2016-03-07" min="2.3" max="2.x.x">
+		- Updated compatibility info
+		</release>
+		<release version="1.2.4" date="2014-09-24" min="2.3" max="2.5.1">
+		- Fixed a bug when the event was firing on the 404. The solution is to
+		never fire the event if the page is in an erroneous state.
+		</release>
+		<release version="1.2.3" date="2014-09-10" min="2.3" max="2.4">
+		- Fixed the event author
+		- Early exit when no default language is found
+		- Removed two notice warnings
+		</release>
+		<release version="1.2.2" date="2014-09-04" min="2.3" max="2.4">
+		- Fixed a regression bug (#7): redirect event's about method has been deleted.
+		</release>
+		<release version="1.2.1" date="2014-08-27" min="2.3" max="2.4">
+		- Fixed bug when no '?' were presented in the reported query string value
+		</release>
+		<release version="1.2" date="2014-04-15" min="2.3" max="2.4">
+		- Fixed issue #6 (thanks @twiro)
+		</release>
+		<release version="1.1" date="2012-11-13" min="2.3">
+		- Update for Symphony 2.3.1 (For un-cdata the querystring)
+		- Use REAL cookies (Since the cookie class does not do it)
+		</release>
+		<release version="1.0" date="2012-07-12" min="2.3">
+		- Initial release
+		</release>
+	</releases>
+</extension>
